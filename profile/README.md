@@ -1,6 +1,6 @@
 <div align="center">
 
-# Autuori Holding
+# StudioCentOS
 ### Your server. Your data. Your code.
 
 [![Website](https://img.shields.io/badge/studiocentos.com-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8)](https://studiocentos.com)
@@ -11,6 +11,9 @@
 </div>
 
 ---
+
+StudioCentOS is the brand of Ciro Autuori, a self-employed software developer
+(autónomo) based in Barcelona. er0s, my0s, markettina and salernos are its products.
 
 We build **sovereign software**: systems that run on infrastructure the client controls.
 Calculations happen in a deterministic kernel at zero token cost; AI models are connected
@@ -53,5 +56,5 @@ organizations of [@autcir](https://github.com/autcir) and
 ---
 
 <div align="center">
-  <sub>Autuori Holding · Salerno × Barcelona · © 2026</sub>
+  <sub>StudioCentOS · Ciro Autuori, autónomo · Salerno × Barcelona · © 2026</sub>
 </div>
